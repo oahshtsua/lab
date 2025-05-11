@@ -1,0 +1,3 @@
+{
+    "greeting": "Hallo, Welt! Ich bin <1>{{name}}</1>"
+}
