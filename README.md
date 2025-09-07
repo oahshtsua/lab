@@ -13,4 +13,5 @@ A repo for all my experiments and toy projects.
 - **networking** – Network programming experiments in Go, including TCP echo server, proxy, and scanner tools.
 - **pipeline** – Airflow DAGs for experimenting with ETL and workflow automation.
 - **quakeviz** – Earthquake data visualization using pandas and Plotly.
+- **8-weeks-sql-challenge** – Solutions to the [8 Week SQL Challenge](https://8weeksqlchallenge.com/).
 
