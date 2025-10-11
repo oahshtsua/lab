@@ -10,6 +10,7 @@ A repo for all my experiments and toy projects.
 - **i18n-greet** – A React + TypeScript app demonstrating internationalization support.
 - **infra-ec2-cluster** – Terraform configuration to provision an autoscaling compute cluster with load balancing on AWS.
 - **kvs** – A simple in-memory key-value store in Go with support for HTTP APIs and a persistent transaction log.
+- **mpi** – A collection of experiments in parallel programming with MPI.
 - **networking** – Network programming experiments in Go, including TCP echo server, proxy, and scanner tools.
 - **pipeline** – Airflow DAGs for experimenting with ETL and workflow automation.
 - **quakeviz** – Earthquake data visualization using pandas and Plotly.
